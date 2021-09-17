@@ -5,7 +5,7 @@ const path = require("path")
 
 
 app.listen(process.env.PORT || 3000, function(){
-    console.log('anda todo bien en http://localhost:3000');
+    console.log('Funciona en el http://localhost:3000');
 })
 
 
